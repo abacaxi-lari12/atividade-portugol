@@ -79,4 +79,4 @@ programa
 	}
 }
 
-# Atividade com Portugol Este repositório contém um algoritmo em Portugol que realiza operações básicas de soma, subtração, multiplicação e divisão. ![Captura de Tela](capturadetela(1).png)
+# Atividade com Portugol Este repositório contém um algoritmo em Portugol que realiza operações básicas de soma, subtração, multiplicação e divisão. ![Captura de Tela](CapturadeTela(1).png)
